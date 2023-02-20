@@ -5,14 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on basic computer vision algorithms.
+- 🔭 I’m currently working on basic computer vision & natural language processing algorithms as well as 3D Reconstruction of Indoor Scene.
 - 🌱 I’m currently learning state-of-the-art NLP algorithms on Coursera.
-- 👯 I’m looking to collaborate on Computer Vision and NLP project/
+- 👯 I’m looking to collaborate on Computer Vision and NLP project.
 - 🤔 I’m looking for help with understanding new generative deep learning boom.
-- 💬 Ask me about ...
+- 💬 Ask me about anything.
 - 📫 How to reach me: khanal.bishwash08@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+<!--
+- ⚡ Fun fact: 
+-->
 
 [![Bishwash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkhanal-11&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
