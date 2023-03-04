@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on basic computer vision & natural language processing algorithms as well as 3D Reconstruction of Indoor Scene.
-- 🌱 I’m currently learning state-of-the-art NLP algorithms on Coursera.
+- 🌱 I’m currently learning state-of-the-art GAN algorithms on Coursera.
 - 👯 I’m looking to collaborate on Computer Vision and NLP project.
-- 🤔 I’m looking for help with understanding new generative deep learning boom.
+- 🤔 I’m looking for help with understanding algorithms behind new generative models like Stable Diffusion.
 - 💬 Ask me about anything.
 - 📫 How to reach me: khanal.bishwash08@gmail.com
 - 😄 Pronouns: he/him
