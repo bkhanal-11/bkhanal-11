@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![Bishwash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkhanal-11&count_private=true&theme=tokyonight&showicons=true)]()
 
+![snake svg](https://github.com/bkhanal-11/bkhanal-11/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhanal-11&langs_count=5&theme=tokyonight)]()
 -->
