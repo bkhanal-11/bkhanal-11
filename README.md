@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div>
 <img align="left" alt="Python" width="26px" height="26px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="C++" width="26px" height="26px"title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="PyTorch" width="26px" height="26px"title="PyTorch" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.svg" />
+<img align="left" alt="PyTorch" width="26px" height="26px"title="PyTorch" src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-flame.svg" />
 <img align="left" alt="TF" width="26px" height="26px" title="TensorFlow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Keras" width="45px" height="26px" title="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 <img align="left" alt="HuggingFace" width="26px" height="26px" title="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
