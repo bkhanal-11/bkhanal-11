@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <!--
 - ⚡ Fun fact: 
 -->
-
-[![Bishwash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkhanal-11&count_private=true&theme=tokyonight&showicons=true)]()
 <!--
+[![Bishwash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkhanal-11&count_private=true&theme=tokyonight&showicons=true)]()
+
 ![snake svg](https://github.com/bkhanal-11/bkhanal-11/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhanal-11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
