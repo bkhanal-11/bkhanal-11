@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on basic computer vision & natural language processing algorithms as well as 3D Reconstruction of Indoor Scene.
-- 🌱 I’m currently learning Model Deployment in Production as well as usage of RESTful APIs.
+- 🌱 I’m currently learning about latest LLMs and their agents through LangChain.
 - 👯 I’m looking to collaborate on Computer Vision and NLP project.
 - 🤔 I’m looking for help with understanding algorithms behind new generative models like Stable Diffusion.
 - 💬 Ask me about anything.
