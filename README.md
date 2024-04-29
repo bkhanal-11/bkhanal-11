@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on basic computer vision & natural language processing algorithms as well as 3D Reconstruction of Indoor Scene.
-- 🌱 I’m currently learning about Database Management Systems and RAGs.
-- 👯 I’m looking to collaborate on Computer Vision and NLP project.
+- 🔭 I’m currently working on Computer Vision & Natural Language Processing algorithms as well as 3D Reconstruction of Indoor Scene.
+- 🌱 I’m currently learning about Fine-tuning and Evaluation of LLMs.
+- 👯 I’m looking to collaborate on Computer Vision and NLP projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: khanal.bishwash08@gmail.com
 - 😄 Pronouns: he/him
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <!--
 [![Bishwash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkhanal-11&count_private=true&theme=tokyonight&showicons=true)]()
-
-![snake svg](https://github.com/bkhanal-11/bkhanal-11/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhanal-11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,6 +26,8 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhanal-11&langs_count=5&theme=tokyonight)]()
 -->
+
+![snake svg](https://github.com/bkhanal-11/bkhanal-11/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages and Tools:
 
