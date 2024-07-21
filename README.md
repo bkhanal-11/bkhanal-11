@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Computer Vision & Natural Language Processing algorithms and 3D Reconstruction of Indoor Scenes.
+- 🔭 I’m currently working on AI Model Quantization & Pruning algorithms and 3D Reconstruction of Indoor Scenes.
 - 🌱 I’m currently learning about Fine-tuning and Evaluation of LLMs.
 - 👯 I’m looking to collaborate on Computer Vision and NLP projects.
 - 💬 Ask me about anything.
