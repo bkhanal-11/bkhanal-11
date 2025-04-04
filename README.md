@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on AI Model Quantization & Pruning algorithms and 3D Reconstruction of Indoor Scenes.
-- 🌱 I’m currently learning about Fine-tuning and Evaluation of LLMs.
-- 👯 I’m looking to collaborate on Computer Vision and NLP projects.
+- 🔭 I’m currently working on the integration of Quantization & Pruning algorithms while fine-tuning LLMs.
+- 🌱 I’m currently learning about Multi-Agent Systems.
+- 👯 I’m looking to collaborate on Computer Vision, NLP projects, and any other AI-related projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: khanal.bishwash08@gmail.com
 - 😄 Pronouns: he/him
