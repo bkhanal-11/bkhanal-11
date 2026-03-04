@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**bkhanal-11/bkhanal-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bikhanal/bikhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 <!--
-[![Bishwash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkhanal-11&count_private=true&theme=tokyonight&showicons=true)]()
+[![Bishwash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikhanal&count_private=true&theme=tokyonight&showicons=true)]()
 
-![snake svg](https://github.com/bkhanal-11/bkhanal-11/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/bikhanal/bikhanal/blob/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhanal-11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikhanal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bkhanal-11)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bikhanal)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkhanal-11)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bikhanal)](https://git.io/streak-stats)
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhanal-11&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bikhanal&langs_count=5&theme=tokyonight)]()
 -->
 
 
