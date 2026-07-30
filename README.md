@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on the integration of Multimodel Large Language Models for photography applications.
+- 🔭 I’m currently working on the integration of TDD Orchestration for Multi-Agent Code Generation for AI-native Software Development.
 - 🌱 I’m currently learning about Multi-Agent Systems.
-- 👯 I’m looking to collaborate on Computer Vision, NLP projects, and any other AI-related projects.
+- 👯 I’m looking to collaborate on Computer Vision and NLP projects, and any other AI-related projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: khanal.bishwash08@gmail.com
 - 😄 Pronouns: he/him
